@@ -1,1 +1,3 @@
 Hello World from VSCode again!
+
+This is just a test to make a second commit, just for practice.
